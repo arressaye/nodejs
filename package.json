@@ -10,7 +10,6 @@
     "express": "^4.19.2"
   },
   "scripts": {
-    "build": "npm install && npx tsc",
     "start": "node app.js"
   },
   "devDependencies": {
