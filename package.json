@@ -5,10 +5,15 @@
   "main": "app.js",
   "author": "alphasec",
   "license": "MIT",
+  "type": "module",
   "dependencies": {
     "express": "^4.19.2"
   },
   "scripts": {
+    "build": "tsc",
     "start": "node app.js"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0"
   }
 }
