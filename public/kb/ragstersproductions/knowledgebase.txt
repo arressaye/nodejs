@@ -1,0 +1,163 @@
+#Company Background
+Ragsters Productions is a web3 development company founded in 2020 focusing mainly on developing smart contract solutions for decentralised applications. We provide bespoke services to companies and projects, building out platforms and solutions to their exact requirements, powered by our proprietary web2 and web3 based technologies.
+We are also a leader in the space of AI application, incorporating AI and RAG technologies into a wide range of tools and solutions that we build.
+
+#Team Members
+#CryptoRaggie
+
+##arressaye
+
+##Co-Founder / Lead Developer
+
+###Full stack web3 developer, previously Solidity developer now focusing solely on Cardano. Initial blockchain experience was gained mainly through working with projects on EVM chains including Ethereum, Harmony and BSC. The mastermind behind all the coding innovations in this project.
+
+#CrafterRaggie
+
+##crafter.raggie
+
+##Artist / Co-Founder / Co-Developer
+
+###Artist and designer by training, Crafter has spent many years undertaking major commercial design projects for international entertainment and production companies. All the design work in our project come from this single pair of hands!
+
+#ButlerRaggie
+
+##legoboy1108
+
+##Outreach Manager
+
+###New to the CNFT-verse, Butler's natural sense of curiosity and love for learning brought him from the fiat mines of corporate sales and marketing to CryptoRaggies, enriching the project with fresh perspectives as we prepare blockchain technology for mass adoption.
+
+
+#Services
+##Low start-up cost
+
+###Focus on your artwork and community not the cost.
+
+##Customised to your needs
+
+###Create a unique experience for your community.
+
+##CIP-68 ready solutions
+
+###Level-up your products with the latest NFT standards.
+
+##Up-to-date, always
+
+###Launch your products with speed and safety in mind.
+
+#Marketplace Solution
+
+##Unlock your project's full potential. Customisable, full featured marketplace tailored to suit the needs of any project.
+
+#Minting Solution
+
+##From concept to success - we provide personalised minting services to help bring your project's vision to life.
+
+#Airdrop Solution
+
+##Connect and reward your community by choosing our airdrop solution to expand your project's reach and strengthen your community.
+
+#Design Service
+
+##Visual excellence designed to impress - comprehensive web and graphic design services catering to every business, web3 and beyond.
+
+#Clients
+Angel Finance
+
+Inmates
+
+Proxies NFT
+
+WeirdOZ
+
+Team Getaways
+
+The Lurkers
+
+#Pricing
+#Development cost (applies for all solutions/packages)
+
+##From USD$150 /hr
+
+#Marketplace Solution
+
+##ADVANCED
+
+###This solution is designed for community marketplaces to enable community members to list items for sale, using ADA and a range of native tokens of your choice, including your own project token!
+
+###Transaction Fee per NFT
+
+1% of value per trade
+
+(Minimum of 1 ADA)
+
+Management Fee
+
+USD$25/mth
+
+Initial Payment
+
+USD$2,000+
+
+##FULL PACKAGE
+
+###Choose this option and we will get your smart contract audited by a trusted third party and will closely communicate the audit process with you along the way. A full auditing report will be included.
+
+###Transaction Fee per NFT
+
+1% of value per trade
+
+(Minimum of 1 ADA)
+
+Management Fee
+
+USD$25/mth
+
+Initial Payment with Audit Fee
+
+Book an appointment for a personalised quote
+
+#Minting Solution
+
+##BASIC (Native Script CIP-25)
+
+###We have already partnered with multiple projects as their trusted minter. We can build a custom frontend for you and handle the mint including live support on mint day and beyond!
+
+###Transaction Fee per NFT
+
+1 ADA per item minted
+
+Management Fee
+
+USD$25/mth
+
+Initial Payment
+
+Book an appointment for a personalised quote
+
+##ADVANCED (Smart Contract / CIP-68)
+
+###If your collection requires advanced minting options such as Plutus minting policy or CIP-68 NFTs requiring a holding smart contract for reference tokens, this option is for you. Get in touch with us to discuss how we can help!
+
+###Transaction Fee per NFT
+
+1 ADA per item minted
+
+Management Fee
+
+USD$25/mth
+
+Initial Payment
+
+Book an appointment for a personalised quote
+
+#Development Timescale Estimates
+A typical custom marketplace will require around 20-50 hours of development time.
+
+A typical minting site will require 8-20 hours of development time.
+
+We can also develop other full-stack ecosystem platforms as required by your project and the development timescale depends on the specific complexity of the platform you need. Book an appointment with us to discuss your requirements and get a personalised quote.
+
+Clients will be charged a flat fee for the dev hours and also ongoing maintenance and usage fees as detailed under "Pricing".
+
+This is only a very rough estimate of the time required. Specific requirements for some projects may significantly lengthen the development timescale and incur additional costs as a result. It is the client's responsibility to understand and factor in the possibility of rising costs during the development period if the scope of work changes after a quote has been issued.
