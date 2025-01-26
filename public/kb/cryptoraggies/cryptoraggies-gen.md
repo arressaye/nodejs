@@ -118,3 +118,9 @@ The community is a group of fun-loving individuals who enjoy a peaceful chat and
 ##PerfectLemon
 ##Carl
 ##Optimal Store (a.k.a Opti) - Optimal has served the community as a mod for a long time but has now left the role. He is still a cherished member of the community. He loves NFTs and Cardano memes. Drinks coffee every morning. Forever fan of Crypto Raggies. Taking over crypto one post at a time.
+
+#I heard about LilacChip. What is that?
+LilacChip is our super rare ecosystem token. Each LilacChip allows the user to buy a high level RaggieRun power-up. LilacChips cannot be bought, but can be obtained from raffles such as the RaggieShrine raffle or VasilRaggie raffle. Alternatively, you may also obtain LilacChip fragments from participating in RaggieRaids. After collecting 4 LilacChip fragments, a full LilacChip can be crafted in Crafter's Nook within RaggieWorld.
+
+#What are RaggieRaids?
+These are exciting community-wide challenges launched from inside the chat box inside RaggieWorld! During some events, we may launch a massive raid requiring significant collective effort from the community to win. Community members may also mint "Moggie Summoning Tokens" from RaggieStore in order to launch their own RaggieRaids. These raids come with different levels of difficulties. The more difficult a raid, the more community involvement is required, and the more the overall rewards! Everyone who participates in a RaggieRaid gets rewarded large amounts of XP, and there is also a chance of getting a LilacChip fragment.
